@@ -11,4 +11,4 @@
 
 [Golden Square Challenges Phase 2 W haquema](https://github.com/haquema/gschallenges-phase2) (collaboration on tasks.rb spec and .md + MusicTracks.rb spec and .md)
 
-[Golden Square Challenges Phase 3 W henrow5](https://github.com/henrow5/golden-square-phase-three) (collaboration on unit testing parent-child classes and mocking_bites + Unit Testing Terminal IO)
+[Golden Square Challenges Phase 3 W henrow5](https://github.com/henrow5/golden-square-phase-three) (collaboration on unit testing parent-child classes and mocking_bites + unit testing terminal IO)
