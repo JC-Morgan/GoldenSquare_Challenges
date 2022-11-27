@@ -119,33 +119,3 @@ end
 
 ```
 
-## 3. Create Examples as Integration Tests
-
-_Examples of how the program should work (class integration):_
-
-```ruby
-
-# Examples for SendMessage and TakeOrders (integrated):
-
-# 1
-
-
-# 2
-
-```
-
-## 4. Create Examples as Unit Tests
-
-_Examples of how the program should work (separate classes):_
-
-```ruby
-
-# Examples for SendMessage:
-
-# 1
-list = TodoList.new
-list.see_list # => []
-
-# 2
-
-# Examples for Diary:
